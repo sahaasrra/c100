@@ -1,0 +1,46 @@
+body
+{
+   background-color: lawngreen;
+}
+h1
+{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: 400;
+}
+h4
+{
+    font-family: serif;
+    font-style: inherit;
+    font-weight: 400;
+}
+#camera
+{
+    width: 500px;
+    height: 400px;
+}
+img
+{
+    width: 700px;
+    height: 500px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2) ;
+}
+img:hover
+{
+border-radius: 140px;
+}
+.column
+{
+    display: inline;
+    padding: 10px;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color:black;
+    bottom: 0;
+    width: 100%;
+    background-color: aqua;
+    line-height: 3;
+    text-align: center;
+}
